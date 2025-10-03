@@ -3,6 +3,10 @@
   "resourceVersion": "1.6",
   "name": "LD58",
   "resources": [
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
+    {"id":{"name":"obj_input","path":"objects/obj_input/obj_input.yy",},"order":1,},
+    {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
+    {"id":{"name":"Conceito Geral","path":"notes/Conceito Geral/Conceito Geral.yy",},"order":0,},
     {"id":{"name":"rm_home","path":"rooms/rm_home/rm_home.yy",},"order":0,},
   ],
   "Options": [

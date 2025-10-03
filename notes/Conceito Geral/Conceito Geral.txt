@@ -1,0 +1,18 @@
+Genero do jogo
+	-TopDow
+	
+Conceinto geral do jogo
+
+	Você é um homem que acaba de invadir uma casa abandonada, buscando dinheiro e coisas valiosas.
+	Mas acaba sofrendo as consequências e morre. Agora você terá que coletar todos os seus pertences para voltar à vida.
+	
+Obstaculos & Inimigos
+
+	1. Obstaculo: Os pentagramas pode leva-lo para o inferno, então tome cuidado com eles.
+	2. Obstaculo: Os espiritos pode ser queimados caso sejam espostos sobre as luzs.
+	3. Obstaculo: Caminhos de sal pode cabar com você.
+	4. Inimigo: Demonios que vieram para te levar para o inferno.
+	
+Coletaveis
+
+	1. Coletavel: Orbs of life são a maneira para ressuscitar, e passa para o próximo level. 
