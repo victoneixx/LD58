@@ -1,5 +1,5 @@
 function push(){
-	var _push_val = 2;
+	var _push_val = 1;
 	
 	var _dirt = point_direction(other.x, other.y, x, y);
 	

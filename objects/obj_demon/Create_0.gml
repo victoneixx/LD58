@@ -1,3 +1,3 @@
 /// @description Inserir descrição aqui
 status = "on";
-vel = 1.4;
+vel = 1.2;
