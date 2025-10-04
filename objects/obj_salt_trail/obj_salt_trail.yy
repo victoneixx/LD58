@@ -11,7 +11,10 @@
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_collisson",
+    "path": "objects/obj_collisson/obj_collisson.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,

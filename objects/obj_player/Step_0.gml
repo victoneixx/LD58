@@ -8,7 +8,7 @@ if(status == "on"){
 	velh = (_right - _left)*vel;
 	velv = (_down - _up)*vel;
 
-	move_and_collide(velh, velv, all);
+	move_and_collide(velh, velv, obj_collisson);
 } else{
 	with(obj_game_over){
 		status = "on";
