@@ -1,4 +1,5 @@
 /// @description Inserir descrição aqui
+if(global.pause) exit;
 if(status == "on"){
 	var _right = keyboard_check_direct(ord("D"));
 	var _left = keyboard_check_direct(ord("A"));
@@ -18,3 +19,4 @@ if(status == "on"){
 		status = "off";
 	}
 }
+

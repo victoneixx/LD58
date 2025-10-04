@@ -1,4 +1,5 @@
 /// @description Inserir descrição aqui
+if(global.pause) exit;
 var _dist = point_distance(x, y, obj_player.x, obj_player.y) < 64;
 var _vision = collision_line(x, y, obj_player.x, obj_player.y, obj_collisson, false, true);
 if(_dist && status == "on" && !_vision){
