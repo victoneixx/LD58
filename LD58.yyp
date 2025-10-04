@@ -3,6 +3,10 @@
   "resourceVersion": "1.6",
   "name": "LD58",
   "resources": [
+    {"id":{"name":"obj_salt_trail","path":"objects/obj_salt_trail/obj_salt_trail.yy",},"order":3,},
+    {"id":{"name":"spr_salt_trail","path":"sprites/spr_salt_trail/spr_salt_trail.yy",},"order":2,},
+    {"id":{"name":"obj_demon","path":"objects/obj_demon/obj_demon.yy",},"order":2,},
+    {"id":{"name":"spr_demon","path":"sprites/spr_demon/spr_demon.yy",},"order":1,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"obj_input","path":"objects/obj_input/obj_input.yy",},"order":1,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
