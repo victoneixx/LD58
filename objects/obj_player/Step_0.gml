@@ -13,4 +13,8 @@ if(status == "on"){
 	with(obj_game_over){
 		status = "on";
 	}
+	
+	with(obj_demon){
+		status = "off";
+	}
 }
