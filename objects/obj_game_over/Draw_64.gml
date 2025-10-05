@@ -6,7 +6,8 @@ if(status == "on"){
 	draw_set_halign(1);
 	draw_set_valign(1);
 	for(var i = 0; i < array_length(text); i++){
-		draw_text(_dpw/2, _dph/2, text[i]);
+		var _dph2 = _dph + (50 * i)
+		draw_text(_dpw/2, _dph2/2, text[i]);
 	}
 	draw_set_halign(-1);
 	draw_set_valign(-1);

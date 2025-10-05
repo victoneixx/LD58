@@ -8,7 +8,7 @@ if(!lighting){
 		surface_set_target(sshadow);
 		draw_clear_alpha(c_black, .92);
 		gpu_set_blendmode(bm_subtract);	
-		draw_circle(x, y, 32, false);
+		draw_sprite(spr_cl, 0 ,x, y);
 		gpu_set_blendmode(bm_normal);
 		surface_reset_target();
 		draw_surface(sshadow, 0, 0);

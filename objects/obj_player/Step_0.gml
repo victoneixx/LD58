@@ -9,7 +9,7 @@ if(status == "on"){
 	velh = (_right - _left)*vel;
 	velv = (_down - _up)*vel;
 
-	move_and_collide(velh, velv, obj_collisson);
+	move_and_collide(velh, velv, obj_wall);
 } else{
 	with(obj_game_over){
 		status = "on";
@@ -19,4 +19,5 @@ if(status == "on"){
 		status = "off";
 	}
 }
+
 
