@@ -4,7 +4,7 @@
   "name": "Windows",
   "option_windows_display_name": "THE HUNTER - LD58",
   "option_windows_executable_name": "${project_name}.exe",
-  "option_windows_version": "1.0.0.0",
+  "option_windows_version": "1.0.0.1",
   "option_windows_company_info": "YoYo Games Ltd",
   "option_windows_product_info": "Guaximix",
   "option_windows_copyright_info": "guaximix 2025",
