@@ -21,7 +21,7 @@ if(status == "on"){
 }
 
 if(keyboard_check_pressed(ord("N"))){
-	room_goto(rm_level06)
+	room_goto(rm_level08)
 }
 
  if(clv == clv_max){

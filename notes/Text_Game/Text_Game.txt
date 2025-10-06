@@ -1,0 +1,28 @@
+Introdução
+
+	Use o WASD para se mover. O seu objetivo é coletar em cada level uma orb verden
+	em quanto escapa de monstros e armadilhas. Exintem 2 tipos de mostros, são eles.
+	
+		Os demonios, te persengum ate uma certa distancia. Não chegue muito perto dele.
+		
+		Os esqueletos, ficam atirando fleshas, em posições diferentes, em velociade diferentes.
+		
+	Tambem temos um chão com epinhos. Com velocidade diferente pra cada level. No total temos 9 levels.
+	Alguns deles você tera que passa deles, no escuro. Agora va, colete as orbs verde, tome cuidade com os monstros e armadilhas, e venca o jogo.
+	Boa sorte.
+	
+Sobre
+	
+	O jogo foi feito para o ludum Dare 58, em 72 horas.
+	Temdo me inspirado em jogos como (Dwart Fortrees e Prelude Of The Chambered).
+	Nem uma dessas sprite de cenario foi feito por mim. O criador original
+	é o (RDS_Dev). Pego no Itch.io.
+	
+Você Ganhou
+
+	Meus parapems, você completou o jogo. Agradeço a você por ter jogado o meu jogo.
+	Pedimos desculpas se o jogo ficou dificil em alguma parte, ou tenha tido muitos bugs.
+	Caso isso tenha acomtecido, deixe um feedback para que possamos arrumar.
+	Avera mais atualizações para arrumar o jogo.
+	
+	Obrigado por jogar <3

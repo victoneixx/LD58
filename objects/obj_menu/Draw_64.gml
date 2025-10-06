@@ -61,11 +61,11 @@ if(screens == 0){
 	draw_set_halign(-1);
 	draw_set_font(global.ghost);
 	
-	draw_set_halign(1);
+	draw_set_halign(0);
 	draw_set_valign(1);
 	for(var i = 0; i < array_length(about); i++){
 		var _dph2 = _dph + (50 * i);
-		draw_text_ext(_dpw/2, _dph2/2, about[i], noone, 1256);
+		draw_text_ext(18, _dph2/2, about[i], noone, 1256);
 	}
 	draw_set_halign(-1);
 	draw_set_valign(-1);

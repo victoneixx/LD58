@@ -33,6 +33,7 @@
     {"id":{"name":"spr_logo","path":"sprites/spr_logo/spr_logo.yy",},"order":8,},
     {"id":{"name":"rm_level05","path":"rooms/rm_level05/rm_level05.yy",},"order":5,},
     {"id":{"name":"rm_level08","path":"rooms/rm_level08/rm_level08.yy",},"order":8,},
+    {"id":{"name":"Text_Game","path":"notes/Text_Game/Text_Game.yy",},"order":1,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"rm_level07","path":"rooms/rm_level07/rm_level07.yy",},"order":7,},
     {"id":{"name":"snd_clv","path":"sounds/snd_clv/snd_clv.yy",},"order":0,},
