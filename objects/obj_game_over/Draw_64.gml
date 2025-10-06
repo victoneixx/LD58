@@ -3,6 +3,7 @@ var _dpw = display_get_gui_width();
 var _dph = display_get_gui_height();
 
 if(status == "on"){
+	if(keyboard_check_pressed(ord("R"))){room_restart();}
 	draw_set_halign(1);
 	draw_set_valign(1);
 	for(var i = 0; i < array_length(text); i++){

@@ -6,7 +6,7 @@ if(!lighting){
 		sshadow = surface_create(room_width, room_height);
 	} else{
 		surface_set_target(sshadow);
-		draw_clear_alpha(c_black, .92);
+		draw_clear_alpha(c_black, .98);
 		gpu_set_blendmode(bm_subtract);	
 		draw_sprite(spr_cl, 0 ,x, y);
 		gpu_set_blendmode(bm_normal);

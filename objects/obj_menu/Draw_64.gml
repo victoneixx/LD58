@@ -48,22 +48,30 @@ if(screens == 0){
 	}
 	draw_set_halign(-1);
 	draw_set_valign(-1);
+	
+	draw_set_valign(2);
+	draw_text(2, _dph, "PRESS ESC TO RETURN TO MENU");
+	draw_set_valign(-1);
 } else if (screens == 2){
 	
 	draw_set_halign(1);
 	draw_set_font(-1);
 	draw_set_font(global.ghost_title);
-	draw_text(_dpw/2, 14, "CREDITS");
+	draw_text(_dpw/2, 14, "ABOUT");
 	draw_set_halign(-1);
 	draw_set_font(global.ghost);
 	
 	draw_set_halign(1);
 	draw_set_valign(1);
-	for(var i = 0; i < array_length(credits); i++){
+	for(var i = 0; i < array_length(about); i++){
 		var _dph2 = _dph + (50 * i);
-		draw_text_ext(_dpw/2, _dph2/2, credits[i], noone, 1256);
+		draw_text_ext(_dpw/2, _dph2/2, about[i], noone, 1256);
 	}
 	draw_set_halign(-1);
+	draw_set_valign(-1);
+	
+	draw_set_valign(2);
+	draw_text(2, _dph, "PRESS ESC TO RETURN TO MENU");
 	draw_set_valign(-1);
 }
 
